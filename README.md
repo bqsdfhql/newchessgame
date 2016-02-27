@@ -1,1 +1,1 @@
-# newchessgame
+A project to get to know the Unreal Engine and to get familair with game programming in c++
