@@ -835,4 +835,1034 @@ Localization Resource: (C:/Program Files/Epic Games/4.8/Engine/Content/Localizat
 [2016.02.29-19.47.07:304][873]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.625
 [2016.02.29-19.47.12:092][146]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A3B4114E0
 [2016.02.29-19.50.03:044][435]LogSavePackage: Save=120.332008ms
-[2016.02.29-19.50.03:044][435]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/TopDownExampleMap178EFC9646FE4465BF4802B7ECF01E20.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Maps/TopDownExample
+[2016.02.29-19.50.03:044][435]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/TopDownExampleMap178EFC9646FE4465BF4802B7ECF01E20.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2016.02.29-19.55.28:488][489]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-19.55.28:488][489]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 9:55:28 PM)
+[2016.02.29-19.55.28:489][489]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-19.55.28:514][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025302s)
+[2016.02.29-19.55.28:515][489]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-19.55.28:516][489]LogPlayLevel: PIE: World Init took: (0.001725s)
+[2016.02.29-19.55.28:516][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.027310s)
+[2016.02.29-19.55.28:561][489]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-19.55.28:568][489]LogInit: FAudioDevice initialized.
+[2016.02.29-19.55.28:599][489]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-19.55.28:608][489]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-19.55.28:608][489]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-20.55.28
+[2016.02.29-19.55.28:608][489]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-19.55.28:609][489]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-19.55.28:610][489]LogWorld: Bringing up level for play took: 0.007249
+[2016.02.29-19.55.28:617][489]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.062
+[2016.02.29-19.55.30:491][587]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A54D014E0
+[2016.02.29-19.58.19:052][460]LogSavePackage: Save=125.407173ms
+[2016.02.29-19.58.19:052][460]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/TopDownExampleMapFB9F481D434E26474EC4FAB98EE9B4F3.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2016.02.29-19.59.20:046][436]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.29-20.00.44:066][454]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.00.44:223][454]BlueprintEditorCompileResults: Info [4824.49] Compile of pawn successful! [in 157 ms]
+[2016.02.29-20.00.49:416][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pawn)
+[2016.02.29-20.00.51:338][792]Cmd: DELETE
+[2016.02.29-20.00.51:338][792]Cmd: ACTOR DELETE
+[2016.02.29-20.00.51:340][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.02.29-20.00.51:392][792]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2016.02.29-20.00.54:560][910]LogSavePackage: Save=155.103424ms
+[2016.02.29-20.00.54:560][910]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/TopDownExampleMapF177E65C44BBB36C6A5989ACCA899366.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2016.02.29-20.00.54:596][910]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.322
+[2016.02.29-20.00.54:637][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Figures/pawn" FILE="../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Blueprints/Figures/pawn.uasset" SILENT=true
+[2016.02.29-20.00.54:666][910]LogSavePackage: Save=24.259903ms
+[2016.02.29-20.00.54:666][910]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/pawn10E9714748CBFF90E375E3A058CC8498.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Blueprints/Figures/pawn.uasset'
+[2016.02.29-20.00.54:679][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Textures/chessboard_material" FILE="../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Textures/chessboard_material.uasset" SILENT=true
+[2016.02.29-20.00.54:689][910]LogSavePackage: Save=2.966073ms
+[2016.02.29-20.00.54:689][910]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/chessboard_material6E54D49A4687EEAA4B48A4AD74D1CC54.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Textures/chessboard_material.uasset'
+[2016.02.29-20.01.08:115][522]LogSavePackage: Save=118.901077ms
+[2016.02.29-20.01.08:115][522]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/TopDownExampleMapD088FD3F41046872E9F1238BFB8656D2.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2016.02.29-20.03.44:899][355]LogSavePackage: Save=130.489838ms
+[2016.02.29-20.03.44:899][355]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/TopDownExampleMap649192D44200A5397D05498D47D1FA71.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2016.02.29-20.03.44:935][355]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.281
+[2016.02.29-20.03.44:970][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Figures/pawn" FILE="../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Blueprints/Figures/pawn.uasset" SILENT=true
+[2016.02.29-20.03.44:993][355]LogSavePackage: Save=18.860260ms
+[2016.02.29-20.03.44:993][355]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/pawn181DA7524F1E7021CABDDEB0B4426736.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Blueprints/Figures/pawn.uasset'
+[2016.02.29-20.12.21:865][793]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.12.21:999][793]BlueprintEditorCompileResults: Info [5522.27] Compile of pawn successful! [in 133 ms]
+[2016.02.29-20.12.23:776][897]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.12.23:776][897]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:12:23 PM)
+[2016.02.29-20.12.23:776][897]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.12.23:802][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025981s)
+[2016.02.29-20.12.23:803][897]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.12.23:805][897]LogPlayLevel: PIE: World Init took: (0.002368s)
+[2016.02.29-20.12.23:805][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.028841s)
+[2016.02.29-20.12.23:853][897]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.12.23:861][897]LogInit: FAudioDevice initialized.
+[2016.02.29-20.12.23:901][897]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.12.23:905][897]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.12.23:905][897]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.12.23
+[2016.02.29-20.12.23:905][897]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.12.23:906][897]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.12.23:906][897]LogWorld: Bringing up level for play took: 0.003542
+[2016.02.29-20.12.23:916][897]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.763
+[2016.02.29-20.12.23:992][897]LogRenderer: Reallocating scene render targets to support 1296x760 (Frame:134752).
+[2016.02.29-20.12.27:518][994]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A41564C20
+[2016.02.29-20.13.09:929][507]LogSavePackage: Save=123.661636ms
+[2016.02.29-20.13.09:929][507]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/TopDownExampleMap66F1F9EE4AF26E942718ACABC58CA20B.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2016.02.29-20.13.16:103][785]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.13.16:216][785]BlueprintEditorCompileResults: Info [5576.49] Compile of pawn successful! [in 112 ms]
+[2016.02.29-20.13.49:577][252]LogSavePackage: Save=126.056915ms
+[2016.02.29-20.13.49:578][252]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/TopDownExampleMap10293AA94540BEE245E8F6879DBBA2CE.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2016.02.29-20.14.29:993][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Figures/pawn" FILE="../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Blueprints/Figures/pawn.uasset" SILENT=true
+[2016.02.29-20.14.30:020][534]LogSavePackage: Save=23.246607ms
+[2016.02.29-20.14.30:020][534]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/pawnE163E03C4C32F822EFE9A5881B6F014C.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Blueprints/Figures/pawn.uasset'
+[2016.02.29-20.14.30:901][587]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.14.31:016][587]BlueprintEditorCompileResults: Info [5651.29] Compile of pawn successful! [in 114 ms]
+[2016.02.29-20.15.01:890][434]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.15.01:890][434]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:15:01 PM)
+[2016.02.29-20.15.01:890][434]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.15.01:913][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022579s)
+[2016.02.29-20.15.01:914][434]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.15.01:915][434]LogPlayLevel: PIE: World Init took: (0.001771s)
+[2016.02.29-20.15.01:915][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024638s)
+[2016.02.29-20.15.01:958][434]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.15.01:966][434]LogInit: FAudioDevice initialized.
+[2016.02.29-20.15.02:007][434]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.15.02:012][434]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.15.02:012][434]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.15.02
+[2016.02.29-20.15.02:012][434]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.15.02:012][434]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.15.02:012][434]LogWorld: Bringing up level for play took: 0.003667
+[2016.02.29-20.15.02:024][434]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.656
+[2016.02.29-20.15.06:074][541]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A3538D800
+[2016.02.29-20.15.37:939][425]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.15.37:952][425]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.15.38:064][425]LogPlayLevel: PIE:  Blueprint regeneration took 125 ms (1 blueprints)
+[2016.02.29-20.15.38:064][425]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:15:38 PM)
+[2016.02.29-20.15.38:065][425]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.15.38:087][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021788s)
+[2016.02.29-20.15.38:088][425]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.15.38:089][425]LogPlayLevel: PIE: World Init took: (0.002009s)
+[2016.02.29-20.15.38:089][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024058s)
+[2016.02.29-20.15.38:129][425]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.15.38:137][425]LogInit: FAudioDevice initialized.
+[2016.02.29-20.15.38:175][425]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.15.38:180][425]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.15.38:180][425]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.15.38
+[2016.02.29-20.15.38:180][425]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.15.38:180][425]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.15.38:180][425]LogWorld: Bringing up level for play took: 0.003137
+[2016.02.29-20.15.38:190][425]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.489
+[2016.02.29-20.17.19:690][758]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6BFF58A0
+[2016.02.29-20.17.35:501][688]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.17.35:619][688]BlueprintEditorCompileResults: Info [5835.89] Compile of pawn successful! [in 117 ms]
+[2016.02.29-20.17.36:488][739]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.17.36:597][739]BlueprintEditorCompileResults: Info [5836.87] Compile of pawn successful! [in 108 ms]
+[2016.02.29-20.17.37:344][782]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.17.37:344][782]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:17:37 PM)
+[2016.02.29-20.17.37:345][782]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.17.37:365][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020128s)
+[2016.02.29-20.17.37:366][782]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.17.37:367][782]LogPlayLevel: PIE: World Init took: (0.001844s)
+[2016.02.29-20.17.37:367][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022266s)
+[2016.02.29-20.17.37:408][782]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.17.37:418][782]LogInit: FAudioDevice initialized.
+[2016.02.29-20.17.37:461][782]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.17.37:466][782]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.17.37:466][782]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.17.37
+[2016.02.29-20.17.37:466][782]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.17.37:467][782]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.17.37:467][782]LogWorld: Bringing up level for play took: 0.004091
+[2016.02.29-20.17.37:478][782]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.798
+[2016.02.29-20.17.44:339][949]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A5D4A7740
+[2016.02.29-20.19.41:023][600]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.19.41:138][600]BlueprintEditorCompileResults: Info [5961.41] Compile of pawn successful! [in 114 ms]
+[2016.02.29-20.19.42:266][666]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.19.42:267][666]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:19:42 PM)
+[2016.02.29-20.19.42:267][666]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.19.42:290][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022743s)
+[2016.02.29-20.19.42:291][666]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.19.42:292][666]LogPlayLevel: PIE: World Init took: (0.002085s)
+[2016.02.29-20.19.42:292][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025167s)
+[2016.02.29-20.19.42:335][666]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.19.42:345][666]LogInit: FAudioDevice initialized.
+[2016.02.29-20.19.42:389][666]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.19.42:394][666]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.19.42:394][666]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.19.42
+[2016.02.29-20.19.42:394][666]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.19.42:395][666]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.19.42:395][666]LogWorld: Bringing up level for play took: 0.003986
+[2016.02.29-20.19.42:405][666]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.275
+[2016.02.29-20.20.02:504][205]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A3E543060
+[2016.02.29-20.20.09:496][610]LogEditorTransaction: Undo Delete current selection
+[2016.02.29-20.20.39:487][583]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.20.39:602][583]BlueprintEditorCompileResults: Info [6019.87] Compile of pawn successful! [in 115 ms]
+[2016.02.29-20.20.40:615][642]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.20.40:615][642]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:20:40 PM)
+[2016.02.29-20.20.40:616][642]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.20.40:640][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023973s)
+[2016.02.29-20.20.40:641][642]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.20.40:641][642]LogPlayLevel: PIE: World Init took: (0.001653s)
+[2016.02.29-20.20.40:642][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025943s)
+[2016.02.29-20.20.40:681][642]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.20.40:690][642]LogInit: FAudioDevice initialized.
+[2016.02.29-20.20.40:731][642]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.20.40:735][642]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.20.40:736][642]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.20.40
+[2016.02.29-20.20.40:736][642]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.20.40:736][642]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.20.40:737][642]LogWorld: Bringing up level for play took: 0.004033
+[2016.02.29-20.20.40:747][642]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.068
+[2016.02.29-20.21.18:908][651]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A4CB69B20
+[2016.02.29-20.22.05:992][545]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.22.05:993][545]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:22:05 PM)
+[2016.02.29-20.22.05:993][545]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.22.06:021][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027804s)
+[2016.02.29-20.22.06:022][545]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.22.06:023][545]LogPlayLevel: PIE: World Init took: (0.001989s)
+[2016.02.29-20.22.06:023][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.030115s)
+[2016.02.29-20.22.06:065][545]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.22.06:075][545]LogInit: FAudioDevice initialized.
+[2016.02.29-20.22.06:116][545]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.22.06:120][545]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.22.06:120][545]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.22.06
+[2016.02.29-20.22.06:120][545]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.22.06:121][545]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.22.06:121][545]LogWorld: Bringing up level for play took: 0.003321
+[2016.02.29-20.22.06:133][545]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.547
+[2016.02.29-20.22.09:533][624]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6EC24680
+[2016.02.29-20.22.51:142][103]LogEditorTransaction: Undo Create Pin Link
+[2016.02.29-20.24.03:037][328]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.24.03:160][328]BlueprintEditorCompileResults: Info [6223.43] Compile of pawn successful! [in 122 ms]
+[2016.02.29-20.24.04:143][385]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.24.04:143][385]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:24:04 PM)
+[2016.02.29-20.24.04:143][385]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.24.04:167][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023444s)
+[2016.02.29-20.24.04:168][385]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.24.04:169][385]LogPlayLevel: PIE: World Init took: (0.001881s)
+[2016.02.29-20.24.04:169][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025628s)
+[2016.02.29-20.24.04:217][385]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.24.04:227][385]LogInit: FAudioDevice initialized.
+[2016.02.29-20.24.04:275][385]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.24.04:280][385]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.24.04:280][385]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.24.04
+[2016.02.29-20.24.04:280][385]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.24.04:280][385]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.24.04:280][385]LogWorld: Bringing up level for play took: 0.003215
+[2016.02.29-20.24.04:292][385]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.387
+[2016.02.29-20.24.08:923][492]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A4CFB36A0
+[2016.02.29-20.24.16:831][963]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.24.16:950][963]BlueprintEditorCompileResults: Info [6237.22] Compile of pawn successful! [in 119 ms]
+[2016.02.29-20.24.18:770][ 69]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.24.18:771][ 69]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:24:18 PM)
+[2016.02.29-20.24.18:771][ 69]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.24.18:793][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022031s)
+[2016.02.29-20.24.18:794][ 69]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.24.18:795][ 69]LogPlayLevel: PIE: World Init took: (0.001770s)
+[2016.02.29-20.24.18:795][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024108s)
+[2016.02.29-20.24.18:840][ 69]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.24.18:847][ 69]LogInit: FAudioDevice initialized.
+[2016.02.29-20.24.18:891][ 69]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.24.18:895][ 69]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.24.18:895][ 69]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.24.18
+[2016.02.29-20.24.18:895][ 69]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.24.18:896][ 69]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.24.18:897][ 69]LogWorld: Bringing up level for play took: 0.004528
+[2016.02.29-20.24.18:908][ 69]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.229
+[2016.02.29-20.24.29:226][335]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A5414D260
+[2016.02.29-20.24.45:646][316]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.24.45:765][316]BlueprintEditorCompileResults: Info [6266.03] Compile of pawn successful! [in 118 ms]
+[2016.02.29-20.24.46:530][360]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.24.46:530][360]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:24:46 PM)
+[2016.02.29-20.24.46:531][360]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.24.46:554][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023158s)
+[2016.02.29-20.24.46:555][360]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.24.46:555][360]LogPlayLevel: PIE: World Init took: (0.001584s)
+[2016.02.29-20.24.46:556][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025030s)
+[2016.02.29-20.24.46:602][360]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.24.46:613][360]LogInit: FAudioDevice initialized.
+[2016.02.29-20.24.46:657][360]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.24.46:661][360]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.24.46:661][360]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.24.46
+[2016.02.29-20.24.46:661][360]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.24.46:661][360]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.24.46:662][360]LogWorld: Bringing up level for play took: 0.003436
+[2016.02.29-20.24.46:674][360]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.005
+[2016.02.29-20.24.49:332][427]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A3E543F60
+[2016.02.29-20.25.35:789][170]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.25.35:804][170]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.25.35:935][170]LogPlayLevel: PIE:  Blueprint regeneration took 146 ms (1 blueprints)
+[2016.02.29-20.25.35:936][170]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:25:35 PM)
+[2016.02.29-20.25.35:936][170]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.25.35:962][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025847s)
+[2016.02.29-20.25.35:965][170]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.25.35:966][170]LogPlayLevel: PIE: World Init took: (0.004030s)
+[2016.02.29-20.25.35:966][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.030162s)
+[2016.02.29-20.25.36:005][170]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.25.36:014][170]LogInit: FAudioDevice initialized.
+[2016.02.29-20.25.36:056][170]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.25.36:061][170]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.25.36:061][170]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.25.36
+[2016.02.29-20.25.36:061][170]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.25.36:061][170]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.25.36:061][170]LogWorld: Bringing up level for play took: 0.003212
+[2016.02.29-20.25.36:070][170]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.609
+[2016.02.29-20.25.40:484][272]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A63B05580
+[2016.02.29-20.25.59:527][404]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.25.59:541][404]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.25.59:659][404]LogPlayLevel: PIE:  Blueprint regeneration took 132 ms (1 blueprints)
+[2016.02.29-20.25.59:660][404]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:25:59 PM)
+[2016.02.29-20.25.59:660][404]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.25.59:683][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023247s)
+[2016.02.29-20.25.59:684][404]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.25.59:685][404]LogPlayLevel: PIE: World Init took: (0.002061s)
+[2016.02.29-20.25.59:686][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025655s)
+[2016.02.29-20.25.59:728][404]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.25.59:735][404]LogInit: FAudioDevice initialized.
+[2016.02.29-20.25.59:781][404]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.25.59:786][404]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.25.59:787][404]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.25.59
+[2016.02.29-20.25.59:787][404]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.25.59:788][404]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.25.59:788][404]LogWorld: Bringing up level for play took: 0.004716
+[2016.02.29-20.25.59:797][404]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.118
+[2016.02.29-20.26.10:618][686]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A3C3EF4C0
+[2016.02.29-20.26.53:723][258]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.26.53:742][258]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.26.53:767][258]LogBlueprint:Error: [compiler pawn] Error This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2016.02.29-20.26.53:862][258]LogBlueprint:Warning: [compiler pawn] Warning [6394.13] Compile of pawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 114 ms]
+[2016.02.29-20.26.53:862][258]LogBlueprint:Warning: [compiler pawn] Warning [6394.13] Compile of pawn failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms]
+[2016.02.29-20.26.53:862][258]LogBlueprint:Warning: [compiler pawn] Warning [6394.13] Compile of pawn failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms]
+[2016.02.29-20.26.53:862][258]LogBlueprint:Warning: [compiler pawn] Warning [6394.13] Compile of pawn failed. 1 Fatal Issue(s) 3 Warning(s) [in 0 ms]
+[2016.02.29-20.26.53:873][258]LogBlueprint:Warning: [compiler pawn] Warning [6394.14] Compile of pawn failed. 1 Fatal Issue(s) 4 Warning(s) [in 11 ms]
+[2016.02.29-20.26.53:873][258]LogBlueprint:Warning: [compiler pawn] Warning [6394.14] Compile of pawn failed. 1 Fatal Issue(s) 5 Warning(s) [in 0 ms]
+[2016.02.29-20.26.53:913][258]LogPlayLevel: PIE:  Blueprint regeneration took 190 ms (1 blueprints)
+[2016.02.29-20.26.58:531][258]BlueprintLog: Info Blueprint pawn failed to compile
+[2016.02.29-20.27.08:116][829]LogEditorTransaction: Undo Create Pin Link
+[2016.02.29-20.27.08:791][866]LogEditorTransaction: Undo Delete current selection
+[2016.02.29-20.27.10:861][986]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.27.10:989][986]BlueprintEditorCompileResults: Info [6411.26] Compile of pawn successful! [in 127 ms]
+[2016.02.29-20.27.35:575][444]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.27.35:695][444]BlueprintEditorCompileResults: Info [6435.97] Compile of pawn successful! [in 120 ms]
+[2016.02.29-20.27.37:329][540]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.27.37:330][540]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:27:37 PM)
+[2016.02.29-20.27.37:330][540]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.27.37:353][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022218s)
+[2016.02.29-20.27.37:354][540]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.27.37:355][540]LogPlayLevel: PIE: World Init took: (0.002182s)
+[2016.02.29-20.27.37:355][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024751s)
+[2016.02.29-20.27.37:402][540]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.27.37:409][540]LogInit: FAudioDevice initialized.
+[2016.02.29-20.27.37:451][540]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.27.37:455][540]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.27.37:455][540]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.27.37
+[2016.02.29-20.27.37:455][540]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.27.37:456][540]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.27.37:456][540]LogWorld: Bringing up level for play took: 0.003365
+[2016.02.29-20.27.37:469][540]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.789
+[2016.02.29-20.27.43:989][716]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6C09CFE0
+[2016.02.29-20.28.32:136][482]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.28.32:151][482]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.28.32:271][482]LogPlayLevel: PIE:  Blueprint regeneration took 133 ms (1 blueprints)
+[2016.02.29-20.28.32:271][482]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:28:32 PM)
+[2016.02.29-20.28.32:271][482]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.28.32:296][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024765s)
+[2016.02.29-20.28.32:299][482]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.28.32:301][482]LogPlayLevel: PIE: World Init took: (0.005000s)
+[2016.02.29-20.28.32:301][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.030029s)
+[2016.02.29-20.28.32:341][482]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.28.32:349][482]LogInit: FAudioDevice initialized.
+[2016.02.29-20.28.32:396][482]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.28.32:401][482]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.28.32:401][482]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.28.32
+[2016.02.29-20.28.32:401][482]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.28.32:402][482]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.28.32:402][482]LogWorld: Bringing up level for play took: 0.003788
+[2016.02.29-20.28.32:411][482]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.269
+[2016.02.29-20.28.41:360][700]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6F6F9800
+[2016.02.29-20.28.53:841][444]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.28.53:858][444]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.28.53:975][444]LogPlayLevel: PIE:  Blueprint regeneration took 133 ms (1 blueprints)
+[2016.02.29-20.28.53:975][444]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:28:53 PM)
+[2016.02.29-20.28.53:976][444]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.28.54:001][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025271s)
+[2016.02.29-20.28.54:002][444]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.28.54:003][444]LogPlayLevel: PIE: World Init took: (0.001596s)
+[2016.02.29-20.28.54:003][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.027127s)
+[2016.02.29-20.28.54:040][444]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.28.54:049][444]LogInit: FAudioDevice initialized.
+[2016.02.29-20.28.54:089][444]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.28.54:094][444]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.28.54:094][444]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.28.54
+[2016.02.29-20.28.54:094][444]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.28.54:094][444]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.28.54:095][444]LogWorld: Bringing up level for play took: 0.003707
+[2016.02.29-20.28.54:104][444]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.576
+[2016.02.29-20.29.01:201][623]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A42057C40
+[2016.02.29-20.29.06:789][955]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.29.06:806][955]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.29.06:929][955]LogPlayLevel: PIE:  Blueprint regeneration took 140 ms (1 blueprints)
+[2016.02.29-20.29.06:929][955]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:29:06 PM)
+[2016.02.29-20.29.06:930][955]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.29.06:954][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022917s)
+[2016.02.29-20.29.06:955][955]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.29.06:956][955]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2016.02.29-20.29.06:956][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025242s)
+[2016.02.29-20.29.07:002][955]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.29.07:009][955]LogInit: FAudioDevice initialized.
+[2016.02.29-20.29.07:053][955]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.29.07:059][955]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.29.07:059][955]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.29.07
+[2016.02.29-20.29.07:059][955]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.29.07:059][955]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.29.07:059][955]LogWorld: Bringing up level for play took: 0.004243
+[2016.02.29-20.29.07:070][955]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.391
+[2016.02.29-20.29.17:166][212]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A42055080
+[2016.02.29-20.29.21:558][471]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.29.21:573][471]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.29.21:693][471]LogPlayLevel: PIE:  Blueprint regeneration took 134 ms (1 blueprints)
+[2016.02.29-20.29.21:693][471]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:29:21 PM)
+[2016.02.29-20.29.21:693][471]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.29.21:715][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021730s)
+[2016.02.29-20.29.21:716][471]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.29.21:717][471]LogPlayLevel: PIE: World Init took: (0.001763s)
+[2016.02.29-20.29.21:717][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023747s)
+[2016.02.29-20.29.21:759][471]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.29.21:766][471]LogInit: FAudioDevice initialized.
+[2016.02.29-20.29.21:807][471]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.29.21:811][471]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.29.21:811][471]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.29.21
+[2016.02.29-20.29.21:811][471]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.29.21:811][471]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.29.21:811][471]LogWorld: Bringing up level for play took: 0.003096
+[2016.02.29-20.29.21:821][471]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.141
+[2016.02.29-20.29.28:575][633]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6F252200
+[2016.02.29-20.29.38:983][254]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.29.39:000][254]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.29.39:117][254]LogPlayLevel: PIE:  Blueprint regeneration took 134 ms (1 blueprints)
+[2016.02.29-20.29.39:117][254]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:29:39 PM)
+[2016.02.29-20.29.39:118][254]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.29.39:145][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026891s)
+[2016.02.29-20.29.39:146][254]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.29.39:147][254]LogPlayLevel: PIE: World Init took: (0.001939s)
+[2016.02.29-20.29.39:147][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.029133s)
+[2016.02.29-20.29.39:188][254]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.29.39:198][254]LogInit: FAudioDevice initialized.
+[2016.02.29-20.29.39:238][254]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.29.39:242][254]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.29.39:242][254]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.29.39
+[2016.02.29-20.29.39:242][254]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.29.39:243][254]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.29.39:243][254]LogWorld: Bringing up level for play took: 0.003284
+[2016.02.29-20.29.39:252][254]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.573
+[2016.02.29-20.29.41:354][301]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A4BFEF740
+[2016.02.29-20.30.23:495][765]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.30.23:617][765]BlueprintEditorCompileResults: Info [6603.89] Compile of pawn successful! [in 122 ms]
+[2016.02.29-20.30.26:149][914]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.30.26:150][914]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:30:26 PM)
+[2016.02.29-20.30.26:150][914]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.30.26:178][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027823s)
+[2016.02.29-20.30.26:179][914]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.30.26:182][914]LogPlayLevel: PIE: World Init took: (0.003690s)
+[2016.02.29-20.30.26:182][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.031881s)
+[2016.02.29-20.30.26:223][914]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.30.26:231][914]LogInit: FAudioDevice initialized.
+[2016.02.29-20.30.26:276][914]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.30.26:281][914]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.30.26:281][914]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.30.26
+[2016.02.29-20.30.26:281][914]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_33 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.30.26:281][914]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_33 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.30.26:282][914]LogWorld: Bringing up level for play took: 0.003988
+[2016.02.29-20.30.26:293][914]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.387
+[2016.02.29-20.30.42:714][352]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A3C3ED620
+[2016.02.29-20.31.02:900][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (field)
+[2016.02.29-20.31.28:884][227]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (field)
+[2016.02.29-20.31.36:716][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (field)
+[2016.02.29-20.31.36:749][553]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2016.02.29-20.31.37:023][565]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2016.02.29-20.31.37:151][569]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (field)
+[2016.02.29-20.31.37:798][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (field)
+[2016.02.29-20.31.37:923][603]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2016.02.29-20.32.59:300][345]LogSavePackage: Save=139.154770ms
+[2016.02.29-20.32.59:300][345]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/TopDownExampleMap_Auto24EE16B344E8065771895BF865D1299C8.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2016.02.29-20.32.59:303][345]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.199
+[2016.02.29-20.32.59:303][345]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.199
+[2016.02.29-20.32.59:313][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/Figures/pawn] ([1] browsable assets)...
+[2016.02.29-20.32.59:385][345]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/Figures/pawn.pawn]
+[2016.02.29-20.32.59:385][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/Figures/pawn]
+[2016.02.29-20.32.59:423][345]LogSavePackage: Save=34.398392ms
+[2016.02.29-20.32.59:423][345]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/pawn_Auto28DCFFBAE47E264E8FC4FF298EFBAC0CD.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/Autosaves/Game/TopDownBP/Blueprints/Figures/pawn_Auto2.uasset'
+[2016.02.29-20.32.59:425][345]LogFileHelpers: Auto-saving content packages took 0.117
+[2016.02.29-20.33.29:433][488]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2016.02.29-20.33.29:982][513]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2016.02.29-20.33.30:732][548]LogEditorViewport: Clicking Background
+[2016.02.29-20.33.31:264][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (field)
+[2016.02.29-20.33.31:725][594]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (field)
+[2016.02.29-20.33.33:795][684]LogEditorViewport: Clicking Background
+[2016.02.29-20.33.37:657][815]LogEditorFactories: Performing atomic reimport of [C:/Users/Mr Viz/Downloads/field.fbx]
+[2016.02.29-20.33.37:700][815]LogFbx: Loading FBX Scene from C:/Users/Mr Viz/Downloads/field.fbx
+[2016.02.29-20.33.37:708][815]LogFbx: FBX Scene Loaded Succesfully
+[2016.02.29-20.33.37:712][815]LogFbx:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing.
+[2016.02.29-20.33.37:712][815]LogFbx:Warning: Triangulating static mesh Plane
+[2016.02.29-20.33.37:783][815]LogStaticMesh: Building static mesh field...
+[2016.02.29-20.33.37:789][815]LogStaticMesh: Built static mesh [0.007054.2s] /Game/TopDownBP/Meshes/field.field
+[2016.02.29-20.33.37:802][815]LogEditorFactories: -- imported successfully
+[2016.02.29-20.33.43:371][ 74]LogEditorViewport: Clicking on Actor (LMB): pawn_C (pawn)
+[2016.02.29-20.33.52:339][501]LogEditorViewport: Clicking Background
+[2016.02.29-20.33.55:463][666]LogEditorViewport: Clicking on Actor (LMB): pawn_C (pawn)
+[2016.02.29-20.34.17:615][770]Cmd: TRANSACTION UNDO
+[2016.02.29-20.34.17:615][770]LogEditorTransaction: Undo Scale Actors
+[2016.02.29-20.35.28:864][378]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.35.28:864][378]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:35:28 PM)
+[2016.02.29-20.35.28:870][378]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.35.28:894][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023776s)
+[2016.02.29-20.35.28:895][378]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.35.28:896][378]LogPlayLevel: PIE: World Init took: (0.002030s)
+[2016.02.29-20.35.28:896][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026230s)
+[2016.02.29-20.35.28:950][378]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.35.28:959][378]LogInit: FAudioDevice initialized.
+[2016.02.29-20.35.28:993][378]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.35.28:998][378]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.35.28:998][378]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.35.28
+[2016.02.29-20.35.28:998][378]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_34 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.35.28:998][378]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_34 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.35.28:998][378]LogWorld: Bringing up level for play took: 0.003561
+[2016.02.29-20.35.29:002][378]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.322
+[2016.02.29-20.35.30:024][428]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A2A12D440
+[2016.02.29-20.35.31:877][522]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2016.02.29-20.35.35:123][679]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.02.29-20.35.36:355][738]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.02.29-20.35.37:701][799]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.35.37:701][799]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:35:37 PM)
+[2016.02.29-20.35.37:706][799]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.35.37:736][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029003s)
+[2016.02.29-20.35.37:737][799]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.35.37:738][799]LogPlayLevel: PIE: World Init took: (0.002139s)
+[2016.02.29-20.35.37:738][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.031450s)
+[2016.02.29-20.35.37:780][799]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.35.37:788][799]LogInit: FAudioDevice initialized.
+[2016.02.29-20.35.37:819][799]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.35.37:823][799]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.35.37:823][799]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.35.37
+[2016.02.29-20.35.37:823][799]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.35.37:824][799]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.35.37:824][799]LogWorld: Bringing up level for play took: 0.003316
+[2016.02.29-20.35.37:829][799]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.851
+[2016.02.29-20.35.39:451][884]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A3AC43F60
+[2016.02.29-20.35.41:608][986]LogEditorViewport: Clicking on Actor (LMB): pawn_C (pawn)
+[2016.02.29-20.35.47:233][252]MapCheck: New page: Map Check
+[2016.02.29-20.35.47:269][252]Cmd: MAP REBUILD ALLVISIBLE
+[2016.02.29-20.35.47:269][252]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.02.29-20.35.47:361][252]LightingResults: New page: Lighting Build - Feb 29, 2016, 10:35:47 PM
+[2016.02.29-20.35.51:913][252]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.02.29-20.35.51:913][252]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.02.29-20.35.51:913][252]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.02.29-20.35.51:913][252]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.02.29-20.35.51:913][252]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.02.29-20.35.52:090][252]LogEditorBuildUtils: Build time 0:00:04
+[2016.02.29-20.35.55:062][254]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.35.55:063][254]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:35:55 PM)
+[2016.02.29-20.35.55:071][254]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.35.55:106][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034385s)
+[2016.02.29-20.35.55:107][254]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.35.55:108][254]LogPlayLevel: PIE: World Init took: (0.001952s)
+[2016.02.29-20.35.55:108][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.036746s)
+[2016.02.29-20.35.55:150][254]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.35.55:160][254]LogInit: FAudioDevice initialized.
+[2016.02.29-20.35.55:192][254]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.35.55:198][254]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.35.55:198][254]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.35.55
+[2016.02.29-20.35.55:199][254]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_36 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.35.55:199][254]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_36 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.35.55:199][254]LogWorld: Bringing up level for play took: 0.004164
+[2016.02.29-20.35.55:203][254]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.523
+[2016.02.29-20.35.55:664][269]Job is a success!
+[2016.02.29-20.35.59:112][451]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A3BC89BC0
+[2016.02.29-20.36.32:057][886]LogEditorFactories: Performing atomic reimport of [C:/Users/Mr Viz/Downloads/field.fbx]
+[2016.02.29-20.36.32:094][886]LogFbx: Loading FBX Scene from C:/Users/Mr Viz/Downloads/field.fbx
+[2016.02.29-20.36.32:102][886]LogFbx: FBX Scene Loaded Succesfully
+[2016.02.29-20.36.32:104][886]LogFbx:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing.
+[2016.02.29-20.36.32:104][886]LogFbx:Warning: Triangulating static mesh Plane
+[2016.02.29-20.36.32:163][886]LogStaticMesh: Building static mesh field...
+[2016.02.29-20.36.32:169][886]LogStaticMesh: Built static mesh [0.006073.2s] /Game/TopDownBP/Meshes/field.field
+[2016.02.29-20.36.32:182][886]LogEditorFactories: -- imported successfully
+[2016.02.29-20.36.55:525][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (field)
+[2016.02.29-20.37.29:268][681]LogEditorViewport: Clicking on Actor (LMB): pawn_C (pawn)
+[2016.02.29-20.37.38:466][133]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.37.38:466][133]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:37:38 PM)
+[2016.02.29-20.37.38:474][133]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.37.38:497][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023739s)
+[2016.02.29-20.37.38:498][133]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.37.38:499][133]LogPlayLevel: PIE: World Init took: (0.002004s)
+[2016.02.29-20.37.38:500][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026041s)
+[2016.02.29-20.37.38:538][133]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.37.38:546][133]LogInit: FAudioDevice initialized.
+[2016.02.29-20.37.38:574][133]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.37.38:579][133]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.37.38:579][133]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.37.38
+[2016.02.29-20.37.38:579][133]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_37 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.37.38:579][133]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_37 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.37.38:579][133]LogWorld: Bringing up level for play took: 0.003190
+[2016.02.29-20.37.38:582][133]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.097
+[2016.02.29-20.37.40:077][210]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A35165B20
+[2016.02.29-20.37.50:135][658]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.02.29-20.37.50:137][658]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.02.29-20.37.50:138][658]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.02.29-20.37.50:142][658]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (BGRA8)
+[2016.02.29-20.37.50:167][658]Lightmass on T4MOB-SIMON: 1:55 min total, 116 ms importing, 0 ms setup, 283 ms photons, 1:54 min processing, 0 ms extra exporting [1/1 mappings]. Threads: 13:22 min total, 36 ms processing.
+[2016.02.29-20.37.50:187][658]LogStaticLightingSystem: Illumination: 8.40 sec (10 ms encoding lightmaps)
+[2016.02.29-20.37.50:187][658]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.02.29-20.37.50:187][658]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.02.29-20.37.55:019][659]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.02.29-20.37.55:019][659]MapCheck: New page: TopDownExampleMap - Feb 29, 2016, 10:37:55 PM
+[2016.02.29-20.37.55:316][659]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 296.919ms to complete.
+[2016.02.29-20.38.31:010][ 66]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (pawn_mesh)
+[2016.02.29-20.38.37:741][279]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.29-20.38.39:240][341]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.38.39:383][341]BlueprintEditorCompileResults: Info [7099.65] Compile of pawn successful! [in 142 ms]
+[2016.02.29-20.38.40:280][386]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.38.40:281][386]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:38:40 PM)
+[2016.02.29-20.38.40:284][386]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.38.40:310][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025584s)
+[2016.02.29-20.38.40:311][386]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.38.40:312][386]LogPlayLevel: PIE: World Init took: (0.001929s)
+[2016.02.29-20.38.40:312][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.027835s)
+[2016.02.29-20.38.40:360][386]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.38.40:373][386]LogInit: FAudioDevice initialized.
+[2016.02.29-20.38.40:416][386]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.38.40:420][386]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.38.40:420][386]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.38.40
+[2016.02.29-20.38.40:420][386]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_38 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.38.40:421][386]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_38 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.38.40:421][386]LogWorld: Bringing up level for play took: 0.003404
+[2016.02.29-20.38.40:433][386]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.246
+[2016.02.29-20.38.45:163][494]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A759300E0
+[2016.02.29-20.38.46:880][574]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.38.46:880][574]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:38:46 PM)
+[2016.02.29-20.38.46:882][574]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.38.46:928][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045279s)
+[2016.02.29-20.38.46:929][574]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.38.46:930][574]LogPlayLevel: PIE: World Init took: (0.002274s)
+[2016.02.29-20.38.46:930][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.048030s)
+[2016.02.29-20.38.46:974][574]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.38.46:984][574]LogInit: FAudioDevice initialized.
+[2016.02.29-20.38.47:035][574]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.38.47:042][574]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.38.47:042][574]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.38.47
+[2016.02.29-20.38.47:042][574]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_39 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.38.47:043][574]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_39 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.38.47:043][574]LogWorld: Bringing up level for play took: 0.004764
+[2016.02.29-20.38.47:058][574]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.379
+[2016.02.29-20.38.52:150][674]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6C4EF240
+[2016.02.29-20.38.52:931][710]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.38.52:931][710]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:38:52 PM)
+[2016.02.29-20.38.52:932][710]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.38.52:960][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027537s)
+[2016.02.29-20.38.52:961][710]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.38.52:962][710]LogPlayLevel: PIE: World Init took: (0.002414s)
+[2016.02.29-20.38.52:963][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.030303s)
+[2016.02.29-20.38.53:006][710]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.38.53:017][710]LogInit: FAudioDevice initialized.
+[2016.02.29-20.38.53:069][710]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.38.53:075][710]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.38.53:075][710]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.38.53
+[2016.02.29-20.38.53:075][710]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_40 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.38.53:076][710]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_40 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.38.53:076][710]LogWorld: Bringing up level for play took: 0.004592
+[2016.02.29-20.38.53:091][710]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.412
+[2016.02.29-20.38.54:765][747]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6C944680
+[2016.02.29-20.38.58:809][923]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.38.58:810][923]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:38:58 PM)
+[2016.02.29-20.38.58:812][923]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.38.58:841][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029407s)
+[2016.02.29-20.38.58:843][923]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.38.58:844][923]LogPlayLevel: PIE: World Init took: (0.002636s)
+[2016.02.29-20.38.58:844][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.032477s)
+[2016.02.29-20.38.58:894][923]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.38.58:905][923]LogInit: FAudioDevice initialized.
+[2016.02.29-20.38.58:936][923]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.38.58:942][923]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.38.58:942][923]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.38.58
+[2016.02.29-20.38.58:942][923]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_41 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.38.58:942][923]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_41 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.38.58:943][923]LogWorld: Bringing up level for play took: 0.004768
+[2016.02.29-20.38.58:947][923]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.268
+[2016.02.29-20.39.02:216][106]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A554CE840
+[2016.02.29-20.39.26:601][383]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2016.02.29-20.39.27:868][453]LogEditorViewport: Clicking on Actor (LMB): pawn_C (pawn)
+[2016.02.29-20.39.45:590][357]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.39.45:591][357]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:39:45 PM)
+[2016.02.29-20.39.45:595][357]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.39.45:617][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021589s)
+[2016.02.29-20.39.45:618][357]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.39.45:619][357]LogPlayLevel: PIE: World Init took: (0.001815s)
+[2016.02.29-20.39.45:619][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023721s)
+[2016.02.29-20.39.45:656][357]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.39.45:664][357]LogInit: FAudioDevice initialized.
+[2016.02.29-20.39.45:703][357]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.39.45:707][357]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.39.45:707][357]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.39.45
+[2016.02.29-20.39.45:707][357]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.39.45:708][357]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.39.45:708][357]LogWorld: Bringing up level for play took: 0.003231
+[2016.02.29-20.39.45:711][357]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.031
+[2016.02.29-20.39.47:533][456]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A28E99A80
+[2016.02.29-20.39.59:052][ 23]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.39.59:052][ 23]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:39:59 PM)
+[2016.02.29-20.39.59:057][ 23]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.39.59:076][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018945s)
+[2016.02.29-20.39.59:077][ 23]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.39.59:078][ 23]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2016.02.29-20.39.59:078][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021014s)
+[2016.02.29-20.39.59:113][ 23]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.39.59:120][ 23]LogInit: FAudioDevice initialized.
+[2016.02.29-20.39.59:157][ 23]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.39.59:162][ 23]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.39.59:162][ 23]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.39.59
+[2016.02.29-20.39.59:162][ 23]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_43 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.39.59:162][ 23]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_43 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.39.59:162][ 23]LogWorld: Bringing up level for play took: 0.003180
+[2016.02.29-20.39.59:165][ 23]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.486
+[2016.02.29-20.40.02:839][233]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6BE69620
+[2016.02.29-20.40.23:354][370]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.40.23:466][370]BlueprintEditorCompileResults: Info [7203.74] Compile of pawn successful! [in 112 ms]
+[2016.02.29-20.40.24:340][420]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2016.02.29-20.40.24:340][420]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:40:24 PM)
+[2016.02.29-20.40.24:341][420]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.40.24:361][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020608s)
+[2016.02.29-20.40.24:362][420]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.40.24:363][420]LogPlayLevel: PIE: World Init took: (0.001835s)
+[2016.02.29-20.40.24:363][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022740s)
+[2016.02.29-20.40.24:401][420]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.40.24:408][420]LogInit: FAudioDevice initialized.
+[2016.02.29-20.40.24:447][420]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.40.24:452][420]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.40.24:452][420]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.40.24
+[2016.02.29-20.40.24:452][420]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_44 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.40.24:452][420]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_44 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.40.24:452][420]LogWorld: Bringing up level for play took: 0.003107
+[2016.02.29-20.40.24:463][420]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.216
+[2016.02.29-20.40.37:868][764]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A5D6AD760
+[2016.02.29-20.41.01:985][ 48]LogEditorViewport: Clicking on Actor (context menu): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2016.02.29-20.41.34:920][311]LogEditorViewport: Clicking on Component (LMB): CameraComponent (CameraComponent)
+[2016.02.29-20.41.35:593][339]LogEditorViewport: Clicking on Component (context menu): CameraComponent (CameraComponent)
+[2016.02.29-20.41.37:594][419]LogEditorViewport: Clicking Background
+[2016.02.29-20.41.38:291][455]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.02.29-20.41.40:064][524]LogEditorViewport: Clicking on Actor (context menu): CameraActor (CameraActor)
+[2016.02.29-20.41.43:967][683]LogEditorViewport: Clicking on Actor (context menu): CameraActor (CameraActor)
+[2016.02.29-20.41.57:201][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Figures/pawn" FILE="../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Blueprints/Figures/pawn.uasset" SILENT=true
+[2016.02.29-20.41.57:236][276]LogSavePackage: Save=30.696526ms
+[2016.02.29-20.41.57:236][276]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/pawn6F0BA7E7446C4E2545AD558A856D1BEE.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Blueprints/Figures/pawn.uasset'
+[2016.02.29-20.42.44:146][667]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.02.29-20.43.23:718][797]LogEditorViewport: Clicking Background
+[2016.02.29-20.43.27:089][993]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.02.29-20.43.28:011][ 41]LogEditorViewport: Clicking on Actor (context menu): CameraActor (CameraActor)
+[2016.02.29-20.43.31:184][212]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.02.29-20.43.31:708][240]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.02.29-20.43.31:829][244]LogEditorViewport: Clicking on Component (LMB): CameraComponent (CameraComponent)
+[2016.02.29-20.46.24:242][883]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.29-20.46.24:423][883]LogSavePackage: Save=124.099403ms
+[2016.02.29-20.46.24:423][883]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/TopDownExampleMap_Auto3BFAD1248422C1ED9657A25B5F1DDF91A.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2016.02.29-20.46.24:426][883]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.184
+[2016.02.29-20.46.24:426][883]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.184
+[2016.02.29-20.46.24:433][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Meshes/field] ([1] browsable assets)...
+[2016.02.29-20.46.24:501][883]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDownBP/Meshes/field.field]
+[2016.02.29-20.46.24:501][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Meshes/field]
+[2016.02.29-20.46.24:501][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Meshes/field" FILE="../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/Autosaves/Game/TopDownBP/Meshes/field_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.02.29-20.46.24:514][883]LogSavePackage: Save=9.073878ms
+[2016.02.29-20.46.24:514][883]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/field_Auto355F18EA54462598342C3EAAF38484A34.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/Autosaves/Game/TopDownBP/Meshes/field_Auto3.uasset'
+[2016.02.29-20.46.24:516][883]LogFileHelpers: Auto-saving content packages took 0.088
+[2016.02.29-20.48.24:588][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Meshes/field" FILE="../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Meshes/field.uasset" SILENT=true
+[2016.02.29-20.48.24:593][877]LogSavePackage: Save=2.195541ms
+[2016.02.29-20.48.24:593][877]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/field25A7E3F14E76A3F0EF3D85B29AB690CB.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Meshes/field.uasset'
+[2016.02.29-20.48.33:157][322]LogMaterial: Missing cached shader map for material chessboard_material, compiling. 
+[2016.02.29-20.48.33:235][322]LogMaterial: Missing cached shader map for material chessboard_material, compiling. 
+[2016.02.29-20.48.33:241][322]LogMaterial: 0.000084 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.29-20.48.33:269][322]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.02.29-20.48.34:701][404]MaterialEditorStats: Info Base pass shader with static lighting: 64 instructions
+[2016.02.29-20.48.34:701][404]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2016.02.29-20.48.34:701][404]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.29-20.48.34:701][404]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.02.29-20.48.44:459][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Meshes/field" FILE="../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Meshes/field.uasset" SILENT=true
+[2016.02.29-20.48.44:471][982]LogSavePackage: Save=9.071509ms
+[2016.02.29-20.48.44:471][982]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/fieldFC47332041D02F1EF4367B83144B2F11.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Meshes/field.uasset'
+[2016.02.29-20.48.58:719][802]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.02.29-20.49.04:381][122]LogEditorViewport: Clicking Background
+[2016.02.29-20.49.05:026][159]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2016.02.29-20.52.20:160][284]BlueprintLog: New page: Compile TopDownExampleMap
+[2016.02.29-20.52.20:227][284]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.29-20.52.20:247][284]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A018B0EA0
+[2016.02.29-20.52.20:249][284]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A28FE9B20
+[2016.02.29-20.52.20:249][284]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A19219F80
+[2016.02.29-20.52.20:250][284]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A4BFEEFC0
+[2016.02.29-20.52.20:283][284]BlueprintEditorCompileResults: Info [7920.55] Compile of TopDownExampleMap successful! [in 123 ms]
+[2016.02.29-20.52.21:386][335]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.52.21:399][335]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.52.21:505][335]LogPlayLevel: PIE:  Blueprint regeneration took 118 ms (1 blueprints)
+[2016.02.29-20.52.21:505][335]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:52:21 PM)
+[2016.02.29-20.52.21:506][335]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.52.21:527][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021492s)
+[2016.02.29-20.52.21:528][335]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.52.21:529][335]LogPlayLevel: PIE: World Init took: (0.001982s)
+[2016.02.29-20.52.21:530][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023770s)
+[2016.02.29-20.52.21:589][335]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.52.21:598][335]LogInit: FAudioDevice initialized.
+[2016.02.29-20.52.21:640][335]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.52.21:644][335]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.52.21:644][335]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.52.21
+[2016.02.29-20.52.21:644][335]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_45 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.52.21:645][335]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_45 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.52.21:645][335]LogWorld: Bringing up level for play took: 0.003605
+[2016.02.29-20.52.21:657][335]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.977
+[2016.02.29-20.52.29:214][506]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6BE696C0
+[2016.02.29-20.53.09:561][287]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2016.02.29-20.53.10:318][323]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2016.02.29-20.53.10:937][353]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2016.02.29-20.53.11:425][377]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2016.02.29-20.53.12:013][407]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2016.02.29-20.53.12:500][431]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2016.02.29-20.53.15:637][591]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2016.02.29-20.53.16:174][617]LogEditorViewport: Clicking on Actor (LMB): pawn_C (pawn)
+[2016.02.29-20.53.21:192][868]LogEditorViewport: Clicking Background
+[2016.02.29-20.53.31:054][415]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.53.31:069][415]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.53.31:165][415]LogPlayLevel: PIE:  Blueprint regeneration took 110 ms (1 blueprints)
+[2016.02.29-20.53.31:165][415]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:53:31 PM)
+[2016.02.29-20.53.31:166][415]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.53.31:190][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024178s)
+[2016.02.29-20.53.31:191][415]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.53.31:192][415]LogPlayLevel: PIE: World Init took: (0.001969s)
+[2016.02.29-20.53.31:192][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026444s)
+[2016.02.29-20.53.31:251][415]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.53.31:259][415]LogInit: FAudioDevice initialized.
+[2016.02.29-20.53.31:296][415]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.53.31:305][415]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.53.31:305][415]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.53.31
+[2016.02.29-20.53.31:305][415]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_46 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.53.31:306][415]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_46 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.53.31:306][415]LogWorld: Bringing up level for play took: 0.008184
+[2016.02.29-20.53.31:315][415]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.636
+[2016.02.29-20.53.40:164][934]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A59091300
+[2016.02.29-20.54.20:821][992]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.54.20:836][992]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.54.20:956][992]LogPlayLevel: PIE:  Blueprint regeneration took 134 ms (1 blueprints)
+[2016.02.29-20.54.20:956][992]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:54:20 PM)
+[2016.02.29-20.54.20:957][992]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.54.20:983][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026061s)
+[2016.02.29-20.54.20:984][992]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.54.20:985][992]LogPlayLevel: PIE: World Init took: (0.002282s)
+[2016.02.29-20.54.20:985][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.028649s)
+[2016.02.29-20.54.21:054][992]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.54.21:063][992]LogInit: FAudioDevice initialized.
+[2016.02.29-20.54.21:100][992]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.54.21:106][992]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.54.21:106][992]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.54.21
+[2016.02.29-20.54.21:106][992]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_47 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.54.21:107][992]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_47 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.54.21:107][992]LogWorld: Bringing up level for play took: 0.004146
+[2016.02.29-20.54.21:111][992]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.432
+[2016.02.29-20.54.25:127][222]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A2632E020
+[2016.02.29-20.54.26:282][281]LogEditorViewport: Clicking on Actor (LMB): pawn_C (pawn)
+[2016.02.29-20.54.42:405][ 77]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.54.42:418][ 77]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.54.42:513][ 77]LogPlayLevel: PIE:  Blueprint regeneration took 108 ms (1 blueprints)
+[2016.02.29-20.54.42:513][ 77]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:54:42 PM)
+[2016.02.29-20.54.42:514][ 77]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.54.42:536][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021511s)
+[2016.02.29-20.54.42:536][ 77]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.54.42:538][ 77]LogPlayLevel: PIE: World Init took: (0.001899s)
+[2016.02.29-20.54.42:538][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023669s)
+[2016.02.29-20.54.42:573][ 77]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.54.42:580][ 77]LogInit: FAudioDevice initialized.
+[2016.02.29-20.54.42:613][ 77]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.54.42:617][ 77]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.54.42:617][ 77]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.54.42
+[2016.02.29-20.54.42:617][ 77]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_48 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.54.42:618][ 77]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_48 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.54.42:618][ 77]LogWorld: Bringing up level for play took: 0.003185
+[2016.02.29-20.54.42:621][ 77]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.058
+[2016.02.29-20.54.45:923][265]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A39533CE0
+[2016.02.29-20.55.09:087][437]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.55.09:194][437]BlueprintEditorCompileResults: Info [8089.46] Compile of pawn successful! [in 106 ms]
+[2016.02.29-20.55.17:393][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Figures/Figure" FILE="../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Blueprints/Figures/Figure.uasset" SILENT=true
+[2016.02.29-20.55.17:408][887]LogSavePackage: Save=10.119148ms
+[2016.02.29-20.55.17:408][887]LogSavePackage: Moving '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Saved/FigureE875E405412CB51D1D2669AD3F83CE81.tmp' to '../../../../../../Users/Mr Viz/Desktop/Echec/Chess/Content/TopDownBP/Blueprints/Figures/Figure.uasset'
+[2016.02.29-20.56.07:474][399]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/TopDownBP/Blueprints/Figures/pawn.pawn:EventGraph.K2Node_CallFunction_2194 or K2Node_CallFunction /Game/TopDownBP/Blueprints/Figures/Figure.Figure:EventGraph.K2Node_CallFunction_2194
+[2016.02.29-20.56.07:474][399]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/TopDownBP/Blueprints/Figures/pawn.pawn:EventGraph.K2Node_CallFunction_2194.EdGraphPin_20631) from referencer (EdGraphPin /Game/TopDownBP/Blueprints/Figures/Figure.Figure:EventGraph.K2Node_Event_21.EdGraphPin_5076).  Import failed...
+[2016.02.29-20.56.07:474][399]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2194.EdGraphPin_20631''
+[2016.02.29-20.56.07:475][399]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/TopDownBP/Blueprints/Figures/pawn.pawn:EventGraph.K2Node_CallFunction_2205 or K2Node_CallFunction /Game/TopDownBP/Blueprints/Figures/Figure.Figure:EventGraph.K2Node_CallFunction_2205
+[2016.02.29-20.56.07:475][399]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/TopDownBP/Blueprints/Figures/pawn.pawn:EventGraph.K2Node_CallFunction_2205.EdGraphPin_20710) from referencer (EdGraphPin /Game/TopDownBP/Blueprints/Figures/Figure.Figure:EventGraph.K2Node_CallFunction_2194.EdGraphPin_20634).  Import failed...
+[2016.02.29-20.56.07:475][399]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2205.EdGraphPin_20710''
+[2016.02.29-20.56.16:631][943]BlueprintLog: New page: Compile Figure
+[2016.02.29-20.56.16:665][943]LogBlueprint:Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'pawn_mesh' in BlueprintGeneratedClass 'REINST_pawn_C_346' (it may have been removed)
+[2016.02.29-20.56.16:705][943]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A4022B560
+[2016.02.29-20.56.16:706][943]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A0D304CC0
+[2016.02.29-20.56.16:896][943]BlueprintEditorCompileResults: Info [8157.17] Compile of Figure successful! [in 264 ms]
+[2016.02.29-20.56.19:929][122]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.56.20:046][122]BlueprintEditorCompileResults: Info [8160.32] Compile of pawn successful! [in 117 ms]
+[2016.02.29-20.56.20:609][152]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.56.20:619][152]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.56.20:724][152]LogPlayLevel: PIE:  Blueprint regeneration took 115 ms (1 blueprints)
+[2016.02.29-20.56.20:724][152]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:56:20 PM)
+[2016.02.29-20.56.20:725][152]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.56.20:747][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022238s)
+[2016.02.29-20.56.20:748][152]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.56.20:749][152]LogPlayLevel: PIE: World Init took: (0.002205s)
+[2016.02.29-20.56.20:749][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024744s)
+[2016.02.29-20.56.20:789][152]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.56.20:797][152]LogInit: FAudioDevice initialized.
+[2016.02.29-20.56.20:841][152]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.56.20:846][152]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.56.20:846][152]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.56.20
+[2016.02.29-20.56.20:846][152]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_49 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.56.20:846][152]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_49 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.56.20:847][152]LogWorld: Bringing up level for play took: 0.004076
+[2016.02.29-20.56.20:858][152]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.179
+[2016.02.29-20.56.26:114][294]Set new viewmode: Wireframe
+[2016.02.29-20.56.26:258][295]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6E0C04A0
+[2016.02.29-20.56.32:158][647]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.56.32:266][647]BlueprintEditorCompileResults: Info [8172.54] Compile of pawn successful! [in 107 ms]
+[2016.02.29-20.56.33:175][700]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.56.33:186][700]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.56.33:281][700]LogPlayLevel: PIE:  Blueprint regeneration took 106 ms (1 blueprints)
+[2016.02.29-20.56.33:282][700]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:56:33 PM)
+[2016.02.29-20.56.33:282][700]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.56.33:303][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021225s)
+[2016.02.29-20.56.33:304][700]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.56.33:305][700]LogPlayLevel: PIE: World Init took: (0.001845s)
+[2016.02.29-20.56.33:305][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023300s)
+[2016.02.29-20.56.33:342][700]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.56.33:349][700]LogInit: FAudioDevice initialized.
+[2016.02.29-20.56.33:395][700]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.56.33:399][700]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.56.33:399][700]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.56.33
+[2016.02.29-20.56.33:399][700]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_50 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.56.33:400][700]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_50 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.56.33:400][700]LogWorld: Bringing up level for play took: 0.003140
+[2016.02.29-20.56.33:410][700]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.73
+[2016.02.29-20.56.43:534][988]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6E251BC0
+[2016.02.29-20.56.49:338][334]BlueprintLog: New page: Compile pawn
+[2016.02.29-20.56.49:446][334]BlueprintEditorCompileResults: Info [8189.72] Compile of pawn successful! [in 108 ms]
+[2016.02.29-20.56.50:127][372]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.56.50:137][372]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.56.50:232][372]LogPlayLevel: PIE:  Blueprint regeneration took 105 ms (1 blueprints)
+[2016.02.29-20.56.50:233][372]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:56:50 PM)
+[2016.02.29-20.56.50:233][372]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.56.50:256][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022491s)
+[2016.02.29-20.56.50:256][372]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.56.50:258][372]LogPlayLevel: PIE: World Init took: (0.001921s)
+[2016.02.29-20.56.50:258][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024668s)
+[2016.02.29-20.56.50:292][372]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.56.50:299][372]LogInit: FAudioDevice initialized.
+[2016.02.29-20.56.50:346][372]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.56.50:350][372]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.56.50:350][372]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.56.50
+[2016.02.29-20.56.50:350][372]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_51 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.56.50:350][372]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_51 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.56.50:350][372]LogWorld: Bringing up level for play took: 0.003235
+[2016.02.29-20.56.50:362][372]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.317
+[2016.02.29-20.56.58:069][585]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A38B0B6A0
+[2016.02.29-20.57.02:898][872]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.57.02:914][872]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.57.02:998][872]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.57.03:096][872]LogPlayLevel: PIE:  Blueprint regeneration took 196 ms (2 blueprints)
+[2016.02.29-20.57.03:096][872]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:57:03 PM)
+[2016.02.29-20.57.03:096][872]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.57.03:116][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020133s)
+[2016.02.29-20.57.03:117][872]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.57.03:119][872]LogPlayLevel: PIE: World Init took: (0.002082s)
+[2016.02.29-20.57.03:119][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022561s)
+[2016.02.29-20.57.03:153][872]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.57.03:160][872]LogInit: FAudioDevice initialized.
+[2016.02.29-20.57.03:204][872]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.57.03:208][872]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.57.03:208][872]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.57.03
+[2016.02.29-20.57.03:208][872]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_52 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.57.03:208][872]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_52 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.57.03:209][872]LogWorld: Bringing up level for play took: 0.003197
+[2016.02.29-20.57.03:217][872]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.538
+[2016.02.29-20.57.14:357][190]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A24FDAFC0
+[2016.02.29-20.57.20:425][551]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.57.20:439][551]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.57.20:521][551]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.57.20:619][551]LogPlayLevel: PIE:  Blueprint regeneration took 193 ms (2 blueprints)
+[2016.02.29-20.57.20:619][551]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:57:20 PM)
+[2016.02.29-20.57.20:620][551]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.57.20:640][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020552s)
+[2016.02.29-20.57.20:641][551]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.57.20:642][551]LogPlayLevel: PIE: World Init took: (0.001804s)
+[2016.02.29-20.57.20:642][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022638s)
+[2016.02.29-20.57.20:676][551]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.57.20:685][551]LogInit: FAudioDevice initialized.
+[2016.02.29-20.57.20:725][551]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.57.20:730][551]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.57.20:730][551]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.57.20
+[2016.02.29-20.57.20:730][551]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_53 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.57.20:730][551]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_53 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.57.20:731][551]LogWorld: Bringing up level for play took: 0.003554
+[2016.02.29-20.57.20:739][551]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.059
+[2016.02.29-20.57.27:511][740]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A41FE5EE0
+[2016.02.29-20.57.35:439][211]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.57.35:453][211]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.57.35:535][211]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.57.35:633][211]LogPlayLevel: PIE:  Blueprint regeneration took 194 ms (2 blueprints)
+[2016.02.29-20.57.35:634][211]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:57:35 PM)
+[2016.02.29-20.57.35:634][211]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.57.35:654][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020297s)
+[2016.02.29-20.57.35:655][211]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.57.35:656][211]LogPlayLevel: PIE: World Init took: (0.001883s)
+[2016.02.29-20.57.35:657][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022476s)
+[2016.02.29-20.57.35:693][211]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.57.35:701][211]LogInit: FAudioDevice initialized.
+[2016.02.29-20.57.35:744][211]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.57.35:749][211]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.57.35:749][211]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.57.35
+[2016.02.29-20.57.35:749][211]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_54 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.57.35:749][211]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_54 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.57.35:749][211]LogWorld: Bringing up level for play took: 0.003169
+[2016.02.29-20.57.35:757][211]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.078
+[2016.02.29-20.57.48:460][574]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A1B6E11C0
+[2016.02.29-20.57.54:496][933]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.57.54:510][933]LogPlayLevel: [PIE] Compiling pawn before PIE...
+[2016.02.29-20.57.54:592][933]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.57.54:691][933]LogPlayLevel: PIE:  Blueprint regeneration took 195 ms (2 blueprints)
+[2016.02.29-20.57.54:691][933]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:57:54 PM)
+[2016.02.29-20.57.54:691][933]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.57.54:712][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020390s)
+[2016.02.29-20.57.54:713][933]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.57.54:714][933]LogPlayLevel: PIE: World Init took: (0.001873s)
+[2016.02.29-20.57.54:714][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022526s)
+[2016.02.29-20.57.54:749][933]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.57.54:757][933]LogInit: FAudioDevice initialized.
+[2016.02.29-20.57.54:794][933]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.57.54:798][933]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.57.54:798][933]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.57.54
+[2016.02.29-20.57.54:798][933]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_55 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.57.54:799][933]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_55 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.57.54:799][933]LogWorld: Bringing up level for play took: 0.003189
+[2016.02.29-20.57.54:807][933]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.128
+[2016.02.29-20.58.05:343][238]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A9FC05DA0
+[2016.02.29-20.58.05:934][263]BlueprintLog: New page: Pre-PIE auto-recompile
+[2016.02.29-20.58.05:946][263]LogPlayLevel: [PIE] Compiling TopDownExampleMap before PIE...
+[2016.02.29-20.58.06:040][263]LogPlayLevel: PIE:  Blueprint regeneration took 106 ms (1 blueprints)
+[2016.02.29-20.58.06:040][263]PIE: New page: PIE session: TopDownExampleMap (Feb 29, 2016, 10:58:06 PM)
+[2016.02.29-20.58.06:041][263]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2016.02.29-20.58.06:061][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020150s)
+[2016.02.29-20.58.06:062][263]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2016.02.29-20.58.06:063][263]LogPlayLevel: PIE: World Init took: (0.001890s)
+[2016.02.29-20.58.06:063][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022360s)
+[2016.02.29-20.58.06:098][263]LogInit: XAudio2 using 'Lautsprecher/Kopfhörer (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.29-20.58.06:107][263]LogInit: FAudioDevice initialized.
+[2016.02.29-20.58.06:138][263]LogWorld: Game class is 'TopDownGameMode_C'
+[2016.02.29-20.58.06:142][263]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2016.02.29-20.58.06:142][263]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2016.02.29-21.58.06
+[2016.02.29-20.58.06:142][263]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_56 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.58.06:142][263]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_56 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.29-20.58.06:142][263]LogWorld: Bringing up level for play took: 0.003225
+[2016.02.29-20.58.06:146][263]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.533
+[2016.02.29-20.58.12:381][627]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A6E252660
+[2016.02.29-20.58.15:340][773]MapCheck: New page: Map Check
+[2016.02.29-20.58.15:391][773]Cmd: MAP REBUILD ALLVISIBLE
+[2016.02.29-20.58.15:391][773]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.02.29-20.58.15:472][773]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000009A0046E160
+[2016.02.29-20.58.15:484][773]LightingResults: New page: Lighting Build - Feb 29, 2016, 10:58:15 PM
+[2016.02.29-20.58.20:009][773]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.02.29-20.58.20:009][773]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.02.29-20.58.20:009][773]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.02.29-20.58.20:009][773]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.02.29-20.58.20:009][773]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.02.29-20.58.20:133][773]LogEditorBuildUtils: Build time 0:00:04
+[2016.02.29-20.58.21:748][799]Job is a success!
